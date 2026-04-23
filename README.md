@@ -43,3 +43,5 @@ A full-stack expense tracker to:
 npm install
 npm run dev
 ```
+## Live Demo
+👉 [https://expense-tracker-nextjs.vercel.app](https://expense-tracker-nextjs-lime-mu.vercel.app/)
